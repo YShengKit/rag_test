@@ -110,7 +110,7 @@ graph = graph_builder.compile()
 
 # Initialize LLM
 llm = ChatGoogleGenerativeAI(
-    model="gemini-1.5-flash",
+    model="gemini-2.0-flash",
     temperature=0,
     max_tokens=None,
     timeout=None,
