@@ -6,7 +6,7 @@ This is a simple implementation of Retrieval-Augmented Generation (RAG) for self
 Access the live Streamlit app here:
 👉 [My RAG Demo](https://ragtest-wmxs7pspbwsp4va5ug7rud.streamlit.app/)
 
-*Note: The app might not be accessible all the time as it will go to sleep if inactive.*
+*Note: The app might not be accessible all the time as it will go to sleep if inactive. Just press the button to wake it lmao*
 
 ## 📌 Features
 - Document retrieval using a vector database (ChromaDB)
